@@ -1,6 +1,10 @@
 
 websiteName = input("Hjemmesidens navn: ")
 yearAndLastUpdate = input("('År' 'dato for sidste opdatering af hjemmesiden'): ")
+
+if len(yearAndLastUpdate) == 0:
+	yearAndLastUpdate = "u.å."
+
 title = input("Titel: ")
 visitDate = input("Hjemmeside besøgt den: ")
 url = input("URL: ")

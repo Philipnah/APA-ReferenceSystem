@@ -10,4 +10,5 @@ yearAndLastUpdate = yearAndLastUpdate[5:]
 
 output = websiteName + ". " + "(" + year + ", " + yearAndLastUpdate + "). " + title + ". Retrieved " + visitDate + " at: " + url
 
+
 print("\n\n" + output + "\n")
