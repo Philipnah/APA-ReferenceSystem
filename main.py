@@ -1,6 +1,3 @@
-# Eksempel:
-# Holten, N. (2008, 20. februar{"u.å.", hvis man ikke har nogen skribent}). Etik. Lokaliseret d. 23. november 2009 på: http://fysio.dk/fafo/Etik/
-
 
 websiteName = input("Hjemmesidens navn: ")
 yearAndLastUpdate = input("År og dato for sidste opdatering af hjemmesiden: ")
